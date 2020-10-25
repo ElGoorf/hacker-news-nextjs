@@ -36,7 +36,7 @@ I'm happy with the general cleanliness of the code, though linting wasn't strict
 
 I didn't make much use of TypeScript or prop-types, or testing. Typically it's around this point, as a prototype is done and I'm more certain about how parts will work together, that I then set up the definitions and unit tests ready for development towards the final product. I'd also start to document finalised components in Storybook.
 
-In hindsight, as SSR wasn't specified as a requirement, I could have spent less time on that and made soem improvements to the layout and styling.
+In hindsight, as SSR wasn't specified as a requirement, I could have spent less time on that and made some improvements to the layout and styling.
 
 ## Further thoughts (that have come to me since submitting the write-up)
 
