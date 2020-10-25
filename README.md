@@ -10,7 +10,7 @@ In summary, I was asked to produce an app using the Hacker News API, which could
 
 My default go-to for starting a React project from scratch is to use `npx create-next-app` or `yarn create next-app`, as this means React is working with SSR and routing out of the box, and it can self-setup TypeScript as an additional step. From there I added eslint and editorconfig with my usual preferences.
 
-When I saw Hacker News API was built on Algolia, I was expecting to be able to shove in the Algolia React Instant Search connected to their cloud and spend the next 2 hours leisurely working on the styling before calling it a day. Unfortunately it turns out that public use is limitted to the customised REST API, meaning I had to create my own API caller, context wrapper and components and adapt my plans and time management.
+When I saw Hacker News API was built on Algolia, I was expecting to be able to shove in the [Algolia React InstantSearch](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/) connected to their cloud and spend the next 2 hours leisurely working on the styling before calling it a day. Unfortunately it turns out that public use is limitted to the customised REST API, meaning I had to create my own API caller, context wrapper and components and adapt my plans and time management.
 
 **Home Page**
 
